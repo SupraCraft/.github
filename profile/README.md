@@ -13,6 +13,6 @@ Project documentation, releases, and product-specific public sites live with the
 
 ## Explore SupraCraft
 
-**[Browse all public repositories](https://github.com/orgs/SupraCraft/repositories)**
+The full branded SupraCraft hub will live at **https://supracraft.github.io/**. Until that surface is published, GitHub's organization repository view remains the automatically current catalog of public work.
 
-GitHub's public repository view is the authoritative, automatically current catalog of SupraCraft's public work. This profile stays intentionally compact and highlights only a small set of useful entry points.
+**[Browse all public repositories](https://github.com/orgs/SupraCraft/repositories)**
