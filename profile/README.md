@@ -2,7 +2,7 @@
 
 **Shared craftsmanship, different worlds.**
 
-SupraCraft is a home for open-source software, tools, and technical projects across different domains.
+SupraCraft is a home for open-source games, modding tools, creative-play projects, and hobby software.
 
 **[Explore SupraCraft projects](https://supracraft.github.io/)**
 
